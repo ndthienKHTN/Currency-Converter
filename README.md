@@ -5,7 +5,7 @@ User should be able to input an amount and select a currency convert from and to
 - Nguyễn Đức Thiện
 
 ## Link Youtube video demo: 
-- Link video demo UI: [https://youtu.be/fnXSZV_mmTc]()
+- Link video demo UI: [tại đây](https://youtu.be/hYdNDB4WvDI)
 
 ## Các bước build and run app
 **Step 1:**
@@ -45,3 +45,8 @@ main/
 ## Các thư thách trong quá trình xây dựng app
 - Xây dựng cấu trúc thư mục hợp lý
 - Làm quen với jetpack compose
+
+## Challenge_2.1
+- Gồm Product là object dữ liệu và InventoryManagement là class thực hiện các function.
+## Challenge_2.2
+- Gồm MissingNumber là class thực hiện function.
